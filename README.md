@@ -180,9 +180,9 @@ This repository was created to demonstrate my technical writing abilities to pot
 
 | | |
 |---|---|
-| 🐙 **GitHub** | [github.com/your-username](#) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](#) |
-| ✉️ **Email** | your.email@example.com |
+| 🐙 **GitHub** | [github.com/vampgirl69101](#) |
+| 💼 **LinkedIn** | [https://www.linkedin.com/in/mary-langley-998b84130/](#) |
+| ✉️ **Email** | vampgirl69101@gmail.com |
 
 ---
 
