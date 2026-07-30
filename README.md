@@ -180,7 +180,7 @@ This repository was created to demonstrate my technical writing abilities to pot
 
 | | |
 |---|---|
-| 🐙 **GitHub** | [github.com/vampgirl69101](#) |
+| 🐙 **GitHub** | [http://www.github.com/vampgirl69101](#) |
 | 💼 **LinkedIn** | [https://www.linkedin.com/in/mary-langley-998b84130/](#) |
 | ✉️ **Email** | vampgirl69101@gmail.com |
 
